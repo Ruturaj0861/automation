@@ -1,4 +1,4 @@
-# HostedSeats Automation Framework
+#  Automation Framework
 
 This repository hosts the automation framework for the QA efforts of the HostedSeats project. Built using **Playwright** and **TypeScript**, the framework enables robust end-to-end testing to ensure application quality.
 
