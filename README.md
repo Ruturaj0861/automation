@@ -1,6 +1,6 @@
 #  Automation Framework
 
-This repository hosts the automation framework for the QA efforts of the HostedSeats project. Built using **Playwright** and **TypeScript**, the framework enables robust end-to-end testing to ensure application quality.
+This repository hosts the automation framework for the QA efforts of the automation project. Built using **Playwright** and **TypeScript**, the framework enables robust end-to-end testing to ensure application quality.
 
 ---
 
@@ -23,7 +23,7 @@ This repository hosts the automation framework for the QA efforts of the HostedS
 ### **Installation**
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/automation.git (using HTTPS) or git@github.com:TechHoldingLLC/th-coke-qa.git (usign SSH)
+   git clone [https://github.com/automation.git](https://github.com/Ruturaj0861/automation.git) (using HTTPS)
    cd th-coke-qa
    ```
 
